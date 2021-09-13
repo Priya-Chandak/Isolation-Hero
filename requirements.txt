@@ -1,0 +1,7 @@
+drf-generators
+djangorestframework
+drf-yasg
+pymysql
+django-allauth
+django-rest-auth
+djangorestframework_jwt
